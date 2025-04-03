@@ -46,24 +46,24 @@ const App=()=>{
       <Carousel.Item>
         <img src={myimg1} width={1600} height={660} />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h3>The WineMaker</h3>
+          <p>NFlavor notes: bold, earthy, fruity, spicy</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
       <img src={myimg2} width={1600} height={660}  />
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3>The WineMaker</h3>
+          <p>Fermentation – Yeast converts sugar to alcohol..</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
        
       <img src={myimg3} width={1550} height={660} />
         <Carousel.Caption>
-          <h3>Third slide label</h3>
+          <h3>The WineMaker</h3>
           <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+          Bottling – Wine is filtered and sealed in bottles.
           </p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -119,7 +119,7 @@ Wine became entwined with religion, trade, and daily life. In Christianity, wine
       <Card.Body>
         <Card.Title>The Wine process</Card.Title>
         <Card.Text style={{color:"brown"}}>
-      jbjddbcvjd
+        "Chemical Alchemy: The Science Behind Wine Aging"
 
         </Card.Text>
         <Button variant="primary" style={{backgroundColor:'brown'}}>Go somewhere</Button>
@@ -131,29 +131,37 @@ Wine became entwined with religion, trade, and daily life. In Christianity, wine
       <Card.Body>
         <Card.Title>The Wine process</Card.Title>
         <Card.Text style={{color:"brown"}}>
-      jbjddbcvjd
+        "The Silent Cellar: Stories Behind the Oldest Wines in the World"
 
         </Card.Text>
         <Button variant="primary" style={{backgroundColor:'brown'}}>Go somewhere</Button>
       </Card.Body>
     </Card>
 
-    <Card style={{ width: '25rem' }}>
+    <Card style={{ width: '25rem' }} >
       <img src={myimg7}/>
       <Card.Body>
         <Card.Title>The Wine process</Card.Title>
         <Card.Text style={{color:"brown"}}>
-      jbjddbcvjd
+        "Bottled Time: Exploring the History and Mystique of Vintage Wines"
 
         </Card.Text>
         <Button variant="primary" style={{backgroundColor:'brown'}}>Go somewhere</Button>
       </Card.Body>
     </Card>
     </div>
-
-
+  
 
     </section>
+
+
+    <div class="block">
+        <h1>JOIN THE WineMaker AND GET 10% OFF</h1>
+        <button>SIGN UP FOR FREE--</button> 
+        
+        </div>   
+
+        
 
 
     
