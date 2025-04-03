@@ -1,0 +1,13 @@
+
+
+.cont{
+
+display: flex;
+
+}
+
+.slide1{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
